@@ -1,5 +1,6 @@
 # venv files
-venv/**
+/venv/**
+/frontend/venv/
 
 # idea files
 .idea/**
@@ -17,6 +18,8 @@ venv/**
 frontend/node_modules
 frontend/.pnp
 .pnp.js
+
+
 
 # testing
 /coverage
