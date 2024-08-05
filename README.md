@@ -99,9 +99,7 @@ Ensure you have the following installed on your machine:
 
 To start the development server, run:
 
-    ```bash
     npm start
-    ```
 
 This will start the application at [http://localhost:3000](http://localhost:3000).
 
@@ -152,16 +150,6 @@ This will start the application at [http://localhost:3000](http://localhost:3000
 ## API Endpoints
 
 The backend endpoints are defined in the included Postman file. Ensure your backend is running and configured correctly to handle these endpoints.
-
-## Improvements
-
-- Component Organization: Group related components into subdirectories.
-- Consistent Naming: Use consistent naming conventions.
-- TypeScript Types: Define and use TypeScript types for props and state management.
-- Testing: Add unit and integration tests.
-- Documentation: Keep the README.md up to date with detailed instructions.
-- Code Splitting: Use React’s lazy loading and code splitting features.
-- Error Handling: Implement proper error handling in forms and API calls.
 
 ## License
 
