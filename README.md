@@ -22,7 +22,7 @@ A web application to manage a database of students using React, TypeScript, Redu
 - **Styling**: Utilizes Styled Components for styling with support for theme-based customization.
 
 ## Project Structure
-
+```bash
 student-management/
 ├── public/
 │ ├── favicon.ico
@@ -70,7 +70,7 @@ student-management/
 ├── package-lock.json
 ├── README.md
 └── tsconfig.json
-
+```
 ## Getting Started
 
 ### Prerequisites
